@@ -1,0 +1,42 @@
+Top commands in Linux
+1.	ls- Display the list of all files. ***
+2.	ls -l- To check what are the type of file whether it is a directory or a file.
+3.	Ls -a – To list all hidden fies.
+4.	Ls -al – To list wit moreclear information.
+5.	Ls -R – It will shows all the files in sub directory. 
+6.	mkdir- To make Directory or a folder.
+7.	cd- Change directory/path and take back to home directory. ***
+8.	touch- To create an empty text file. You can create a single file or multiple files at a time.
+9.	nano- Create/insert a text into a file.
+10.	cat- To read the data in the file.
+11.	rm- To delete a file.
+12.	rm *- To delete multiple files.
+13.	cd ..- Go back to previous directory just one step ***
+14.	cd ../- Go back to home directory.
+15.	cd ../..Go back to two steps of the directory.
+16.	rmdir - To delete the directory or folder.
+17.	rm -r -To delete the folder which contains some data. 
+18.	man rm – (manual remove) you will get full details after you entering in the linux cmd. ***
+19.	cp – To copy the files.
+20.	mv – To move the files and also rename the file for example (mv 1.txt 2.txt) In this 1.txt file name is changed to 2.txt.
+21.	~/- Display what is there in the home directory.
+22.	uname- To check on which os is the machine.
+23.	Ssh – Secure shell login
+24.	There are different package managers for linux machine. For example ‘APT’ is for ubuntu, ‘YUM’ is for Cento os, ‘RPM’ is for Redhat, (Expensive), DNF is for Debian etc… all of these are different package managers for different Linux machines.
+25.	where python3 – To find the location of a python3.
+26.	echo – Display the path.
+27.	pwd  - To print working directory.
+28.	q – To quit
+29.	cat .txt | tr a-z A-Z > upper.txt – To change to capitol letters.
+30.	Sudo – super user do command
+31.	df - displays information about total space and available space on a file system.
+32.	du – display disk usage statistics.
+33.	du – h – display clear list how much usage in KB, MB, GB.
+34.	head  -n 4 .txt – To display the top four lines in text file
+35.	tail -n 2 .txt – to display last two line in the .txt fle.
+36.	diff a.txt b.txt – compare and shows the differences.
+37.	locate – To l=find the location of file same as where command.
+38.	Find .. – To give all the directory. 
+39.	Find ._ -type f -name  “.txt” – you can find any file with .txt.  (This command is case sensitive if you don’t need case sensitive find the below command)
+40.	Find ._ -type f -iname  “.txt 
+
